@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Navjot, Welcome to my repository
+- 👋 Hi, My name is Navjot, Welcome to my repository
 - 🌱 I’m currently working as a Senior Software Engineer
-- 💞️ Looking to collaborate on interesting projects with interesting people
-- 📫 To reach me, email me @navjots.lamba@gmail.com
-- 👀 Look around my projects if you find anything interesting drop an email, we can collaborate together.
+- 💞️ And Looking to collaborate on interesting projects with interesting people
+- 📫 Reach out to me for interesting projects, my email id: @navjots.lamba@gmail.com
+- 👀 You can also look around my projects if you find anything interesting drop an email, we can collaborate together.
 
 <!---
 navjotslamba/navjotslamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
